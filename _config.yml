@@ -22,7 +22,7 @@ repository               : "Christopher-TR/Christopher-TR.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pikapika.png"
+  avatar           : "pika profe.png"
   name             : "Christopher Torres Rojas"
   pronouns         : # example: "she/her"  
   bio              : "Estadístico"
@@ -253,7 +253,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: cursos
     values:
       layout: single
       author_profile: true
@@ -275,7 +275,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
@@ -284,7 +284,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
