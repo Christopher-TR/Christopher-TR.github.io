@@ -13,9 +13,9 @@ correo: christopher.torres@ucr.ac.cr
 
 CURSOS:
 ======
-[XS3310-I25 Teoría Estadística](https://christopher-TR.github.io/XS3310-II_2025/)
+[XS3310-II 2025 Teoría Estadística](https://christopher-TR.github.io/XS3310-II_2025/)
 
-[XS-0122 Modelos Probabilísticos I](https://christopher-tr.github.io/XS0122-II_2025/)
+[XS0122-II 2025 Modelos Probabilísticos I](https://christopher-tr.github.io/XS0122-II_2025/)
 
 
 ======
