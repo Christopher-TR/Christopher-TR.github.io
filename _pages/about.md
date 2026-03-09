@@ -15,8 +15,9 @@ CURSOS:
 ======
 [XS3310-II 2025 Teoría Estadística](https://christopher-TR.github.io/XS3310-II_2025/)
 
-[XS0122-II 2025 Modelos Probabilísticos I](https://christopher-tr.github.io/XS0122-II_2025/)
+[XS0122-I 2026 Modelos Probabilísticos I](https://christopher-tr.github.io/XS0122-II_2025/)
 
+[XS0122-I 2026 Fundamentos de Teoría Estadística](https://christopher-tr.github.io/XS0100-I_2026/)
 
 ======
 
