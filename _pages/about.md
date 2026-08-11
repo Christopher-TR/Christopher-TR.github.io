@@ -19,7 +19,7 @@ CURSOS:
 
 [XS-0100 Fundamentos de Teoría Estadística](https://christopher-tr.github.io/XS0100-I_2026/)
 
-[XS-1130 Principios de Inferencia](https:google.com)
+[XS-1130 Principios de Inferencia](https://google.com)
 
 ======
 
